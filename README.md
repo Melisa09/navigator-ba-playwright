@@ -4,7 +4,7 @@
 This project automates the testing of the Navigator.ba website using Playwright and Python for Atlantbh assignment. The purpose is to ensure that all basic functionalities of the website work correctly, including navigation, search and map.
 
 ## Test Cases
-The test cases for the Navigator.ba application are documented in the [test_cases.xlsx](./test_cases.xlsx) file. You can review all the test scenarios in this file. Here are test results after smoke tests: [smoke_results.xlsx].
+The test cases for the Navigator.ba application are documented in the [test_cases.xlsx](./test_cases.xlsx) file. You can review all the test scenarios in this file. Here are test results after smoke tests: [smoke_results.xlsx](./smoke_results.xlsx) .
 
 ## Bugs
 The known bugs for the Navigator.ba application are documented in the [general_bugs.xlsx](./general_bugs.xlsx). You can review the details of the reported bugs, their descriptions, and current status in this file. Bugs after smoke tests are here: [smoke_test_bugs.xlsx](./smoke_test_bugs.xlsx) file.
